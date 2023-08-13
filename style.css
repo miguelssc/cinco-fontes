@@ -1,0 +1,34 @@
+.titulo{
+    color: coral;
+}
+body{
+    background-color: bisque;
+    text-align: center;
+    font-size: 18px ;
+    
+}
+p{
+    color: rgb(12, 12, 12);
+    border: 2px solid;
+}
+#serif{
+    font-family: serif;
+}
+#sans{
+    font-family: sans-serif;
+}
+#fantasy{
+    font-family: fantasy;
+}
+#cursive{
+    font-family: cursive;
+}
+#monospace{
+    font-family: monospace;
+}
+#escolha{
+    font-family:'Noto Serif Vithkuqi', serif;
+   
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Vithkuqi:wght@500&family=PT+Serif&display=swap');
